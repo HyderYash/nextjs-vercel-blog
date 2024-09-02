@@ -60,7 +60,7 @@ const PageFooter = () => {
                     </Link>
                 </div>
                 <div className="col-span-2 sm:col-span-1 flex items-end justify-start sm:justify-end">
-                    <p className="text-xs text-muted-foreground">&copy; 2024 Acme Blog. All rights reserved.</p>
+                    <p className="text-xs text-muted-foreground">&copy; 2024 WAYTOIDEA Blog. All rights reserved.</p>
                 </div>
             </div>
         </footer>
